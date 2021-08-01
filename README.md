@@ -20,3 +20,6 @@ Entidad Cliente: son los usuarios que se registran en el sistema a través del S
 En src/ se encuentran cuatro directorios donde se desarrollan las clases e interfaces del: servidor, el cliente y el repositorio, junto con otro directorio llamado common
 para almacenar los métodos y clases comunes.
 
+Para ejecutar el sistema y dejar los servicios levantados, se ejecuta en consola el comando Ejecutapractica.bat
+
+Para más detalles del trabajo, consultar el documento Memoria_practica.pdf 
